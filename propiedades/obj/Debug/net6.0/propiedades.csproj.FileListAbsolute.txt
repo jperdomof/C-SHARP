@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\propiedades\bin\Debug\net6.0\propiedades.exe
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\propiedades\bin\Debug\net6.0\propiedades.deps.json
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\propiedades\bin\Debug\net6.0\propiedades.runtimeconfig.json
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\propiedades\bin\Debug\net6.0\propiedades.dll
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\propiedades\bin\Debug\net6.0\propiedades.pdb
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\propiedades\obj\Debug\net6.0\propiedades.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\propiedades\obj\Debug\net6.0\propiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\propiedades\obj\Debug\net6.0\propiedades.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\propiedades\obj\Debug\net6.0\propiedades.AssemblyInfo.cs
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\propiedades\obj\Debug\net6.0\propiedades.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\propiedades\obj\Debug\net6.0\propiedades.dll
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\propiedades\obj\Debug\net6.0\refint\propiedades.dll
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\propiedades\obj\Debug\net6.0\propiedades.pdb
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\propiedades\obj\Debug\net6.0\propiedades.genruntimeconfig.cache
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\propiedades\obj\Debug\net6.0\ref\propiedades.dll
