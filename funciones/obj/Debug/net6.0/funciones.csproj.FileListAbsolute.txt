@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\funciones\bin\Debug\net6.0\funciones.exe
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\funciones\bin\Debug\net6.0\funciones.deps.json
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\funciones\bin\Debug\net6.0\funciones.runtimeconfig.json
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\funciones\bin\Debug\net6.0\funciones.dll
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\funciones\bin\Debug\net6.0\funciones.pdb
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\funciones\obj\Debug\net6.0\funciones.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\funciones\obj\Debug\net6.0\funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\funciones\obj\Debug\net6.0\funciones.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\funciones\obj\Debug\net6.0\funciones.AssemblyInfo.cs
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\funciones\obj\Debug\net6.0\funciones.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\funciones\obj\Debug\net6.0\funciones.dll
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\funciones\obj\Debug\net6.0\refint\funciones.dll
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\funciones\obj\Debug\net6.0\funciones.pdb
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\funciones\obj\Debug\net6.0\funciones.genruntimeconfig.cache
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\funciones\obj\Debug\net6.0\ref\funciones.dll
