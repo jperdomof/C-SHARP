@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\12-ejercicio-clase-animales\bin\Debug\net6.0\12-ejercicio-clase-animales.exe
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\12-ejercicio-clase-animales\bin\Debug\net6.0\12-ejercicio-clase-animales.deps.json
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\12-ejercicio-clase-animales\bin\Debug\net6.0\12-ejercicio-clase-animales.runtimeconfig.json
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\12-ejercicio-clase-animales\bin\Debug\net6.0\12-ejercicio-clase-animales.dll
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\12-ejercicio-clase-animales\bin\Debug\net6.0\12-ejercicio-clase-animales.pdb
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\12-ejercicio-clase-animales\obj\Debug\net6.0\12-ejercicio-clase-animales.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\12-ejercicio-clase-animales\obj\Debug\net6.0\12-ejercicio-clase-animales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\12-ejercicio-clase-animales\obj\Debug\net6.0\12-ejercicio-clase-animales.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\12-ejercicio-clase-animales\obj\Debug\net6.0\12-ejercicio-clase-animales.AssemblyInfo.cs
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\12-ejercicio-clase-animales\obj\Debug\net6.0\12-ejercicio-clase-animales.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\12-ejercicio-clase-animales\obj\Debug\net6.0\12-ejercicio-clase-animales.dll
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\12-ejercicio-clase-animales\obj\Debug\net6.0\refint\12-ejercicio-clase-animales.dll
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\12-ejercicio-clase-animales\obj\Debug\net6.0\12-ejercicio-clase-animales.pdb
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\12-ejercicio-clase-animales\obj\Debug\net6.0\12-ejercicio-clase-animales.genruntimeconfig.cache
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\12-ejercicio-clase-animales\obj\Debug\net6.0\ref\12-ejercicio-clase-animales.dll
