@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\Proyecto Notas\Notas_alumnos\bin\Debug\net6.0\Notas_alumnos.exe
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\Proyecto Notas\Notas_alumnos\bin\Debug\net6.0\Notas_alumnos.deps.json
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\Proyecto Notas\Notas_alumnos\bin\Debug\net6.0\Notas_alumnos.runtimeconfig.json
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\Proyecto Notas\Notas_alumnos\bin\Debug\net6.0\Notas_alumnos.dll
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\Proyecto Notas\Notas_alumnos\bin\Debug\net6.0\Notas_alumnos.pdb
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\Proyecto Notas\Notas_alumnos\obj\Debug\net6.0\Notas_alumnos.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\Proyecto Notas\Notas_alumnos\obj\Debug\net6.0\Notas_alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\Proyecto Notas\Notas_alumnos\obj\Debug\net6.0\Notas_alumnos.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\Proyecto Notas\Notas_alumnos\obj\Debug\net6.0\Notas_alumnos.AssemblyInfo.cs
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\Proyecto Notas\Notas_alumnos\obj\Debug\net6.0\Notas_alumnos.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\Proyecto Notas\Notas_alumnos\obj\Debug\net6.0\Notas_alumnos.dll
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\Proyecto Notas\Notas_alumnos\obj\Debug\net6.0\refint\Notas_alumnos.dll
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\Proyecto Notas\Notas_alumnos\obj\Debug\net6.0\Notas_alumnos.pdb
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\Proyecto Notas\Notas_alumnos\obj\Debug\net6.0\Notas_alumnos.genruntimeconfig.cache
+C:\Users\WINDOWS 8.1\Desktop\ejercicios\Proyecto Notas\Notas_alumnos\obj\Debug\net6.0\ref\Notas_alumnos.dll
